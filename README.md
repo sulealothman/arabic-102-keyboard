@@ -4,11 +4,11 @@ arabic 102 keyboard script for change keyboard layout to 102 arabic ( simulate 1
 
 ## Note
 
-Please check ara file permision is :
+Please check ara file permisions is :
 ```
 -rw-r--r-- 1 ownuser owngroup 34106 Jul 15  2020 ara
 ```
-if ara file isn't same this permision please run this command:
+if ara file isn't same this permisions please run this command:
 ```
 sudo chmod 644 ara
 ```
